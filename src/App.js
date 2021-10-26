@@ -4,6 +4,7 @@ import Features from "./components/Features";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Footer from "./components/Footer";
+import OurExperts from "./components/OurExperts";
 
 function App() {
   return (
@@ -15,6 +16,8 @@ function App() {
       <Features />
 
       <Benefits/>
+
+      <OurExperts/>
 
       <Footer/>
     </div>

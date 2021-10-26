@@ -12,6 +12,7 @@ module.exports = {
         primary: "#02897A",
         text: "#22343D",
       },
+      backgroundImage: {},
     },
   },
   variants: {
