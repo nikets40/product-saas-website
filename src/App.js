@@ -3,6 +3,7 @@ import Benefits from "./components/Benefits";
 import Features from "./components/Features";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -14,6 +15,8 @@ function App() {
       <Features />
 
       <Benefits/>
+
+      <Footer/>
     </div>
   );
 }

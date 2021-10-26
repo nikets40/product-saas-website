@@ -22,6 +22,9 @@
     .container{
         @apply max-w-7xl m-auto px-8 sm:px-12
     }
+    .icon-button{
+        @apply hover:scale-125 active:scale-95 cursor-pointer duration-200
+    }
 }
 
 body{
