@@ -17,7 +17,7 @@
         @apply px-8 py-2 whitespace-nowrap font-semibold text-lg border-2 border-[#BCD0E5] rounded-md cursor-pointer hover:border-[#02897A] hover:text-[#02897A] duration-200 active:scale-90
     }
     .nav-item{
-        @apply cursor-pointer px-4 hover:font-semibold hover:scale-105 transition transform
+        @apply cursor-pointer px-4 hover:font-semibold hover:scale-105 transition transform active:scale-90
     }
     .container{
         @apply max-w-7xl m-auto px-8 sm:px-12
