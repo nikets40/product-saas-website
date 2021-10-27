@@ -6,6 +6,7 @@ import Hero from "./components/Hero";
 import Footer from "./components/Footer";
 import OurExperts from "./components/OurExperts";
 import Blogs from "./components/Blogs";
+import PriceTable from "./components/PriceTable";
 
 function App() {
   return (
@@ -21,6 +22,8 @@ function App() {
       <OurExperts/>
 
       <Blogs/>
+
+      <PriceTable/>
 
       <Footer/>
     </div>
