@@ -25,6 +25,7 @@
     .icon-button{
         @apply hover:scale-125 active:scale-95 cursor-pointer duration-200
     }
+    
 }
 
 body{
