@@ -7,6 +7,8 @@ import Footer from "./components/Footer";
 import OurExperts from "./components/OurExperts";
 import Blogs from "./components/Blogs";
 import PriceTable from "./components/PriceTable";
+import Testimonials from "./components/Testimonials";
+import BottomCTA from "./components/BottomCTA";
 
 function App() {
   return (
@@ -24,6 +26,10 @@ function App() {
       <Blogs/>
 
       <PriceTable/>
+
+      <Testimonials/>
+
+      <BottomCTA/>
 
       <Footer/>
     </div>

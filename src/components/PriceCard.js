@@ -25,7 +25,7 @@ function PriceCard({ title, description, price, operators }) {
         ))}
       </div>
 
-      <button className="primary-button mt-9 mb-8 group-even:bg-white group-even:text-primary rounded-lg">Order Now</button>
+      <button className="primary-button mt-9 mb-8 group-even:primary-button-white rounded-lg">Order Now</button>
     </div>
   );
 }

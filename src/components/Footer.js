@@ -63,6 +63,5 @@ function Footer() {
 export default Footer;
 
 export function Link({text}) {
-    console.log("text passed:- ", text)
   return <p className="cursor-pointer mt-2">{text}</p>;
 }

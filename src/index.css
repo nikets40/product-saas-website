@@ -16,6 +16,9 @@
     .secondary-button{
         @apply px-8 py-2 whitespace-nowrap font-semibold text-lg border-2 border-[#BCD0E5] rounded-md cursor-pointer hover:border-[#02897A] hover:text-[#02897A] duration-200 active:scale-90
     }
+    .primary-button-white{
+        @apply primary-button bg-white text-primary hover:bg-primary hover:text-white hover:border-white
+    }
     .nav-item{
         @apply cursor-pointer px-4 hover:font-semibold hover:scale-105 transition transform active:scale-90
     }
